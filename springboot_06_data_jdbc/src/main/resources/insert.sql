@@ -1,0 +1,1 @@
+insert into auto_create(autoCreateName) values('Yang')
